@@ -1,2 +1,3 @@
 # musical-keyboard
-javaScript30 drum kit project 
+My take on the javaScript30 drum kit project 
+
